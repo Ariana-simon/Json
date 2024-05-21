@@ -1,0 +1,14 @@
+{
+    "name": "John Doe",
+    "age": 25,
+    "city": "New York, NY",
+    "interests": [
+        "Traveling",
+        "Painting",
+        "Videogames",
+        "Crafting",
+        "Reading",
+        "volleyball",
+        "Secret Hobby"
+    ]
+}
